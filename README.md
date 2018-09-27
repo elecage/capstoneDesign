@@ -1,4 +1,4 @@
-# capstoneDesign
+# 동서울대학교 전자과 2018년도 Capstone Design
 
 ## 오드론
 * 드론 제작
